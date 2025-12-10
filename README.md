@@ -76,7 +76,7 @@ java  -cp ".;lib/jfreechart-1.5.4.jar" GamifiedPortfolioGUI
 
 Place your screenshot(s) in `docs/screenshots/`.
 
-![App Screenshot](docs/screenshots/your-stocks.png)
+![App Screenshot](docs/screenshots/your-stocks.png.png)
 
 
 ## CSV Template
@@ -96,5 +96,6 @@ Place your screenshot(s) in `docs/screenshots/`.
 ## License
 
 Educational project for the fun and  OOTS Java course.
+
 
 
