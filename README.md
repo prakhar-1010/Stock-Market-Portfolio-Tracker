@@ -78,7 +78,6 @@ Place your screenshot(s) in `docs/screenshots/`.
 
 ![App Screenshot](docs/screenshots/your-stocks.png)
 
-(Optional) Add more images and links as you like.
 
 ## CSV Template
 
@@ -97,4 +96,5 @@ Place your screenshot(s) in `docs/screenshots/`.
 ## License
 
 Educational project for the fun and  OOTS Java course.
+
 
